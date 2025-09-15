@@ -1,1 +1,1 @@
-"# AWS-Sagemaker-CustomerChurn-Pipeline" 
+Please refer to SagemakerCustomerChurn Write Up.docx
